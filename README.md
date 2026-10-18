@@ -95,7 +95,7 @@ vk_centrality_task2/
 ├── requirements.txt
 ├── test_main.py
 ├── README.md
-└── output/                  # создаётся после запуска
+└── output/                  
     ├── centrality_results.csv
     ├── network.png
     └── centrality_chart.png
